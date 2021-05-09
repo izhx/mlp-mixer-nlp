@@ -6,4 +6,4 @@ Try MLP-Mixer in NLP tasks.
     - LSTM: 86.38, `2 layer, 512 hidden`.
     - MLP-Mixer (in timestep and hidden): 82.04, `6 layer, 128 token, 300 hidden`.
 
-More codes, trials and results are comming soon!
+More codes, trials and results are coming soon!
