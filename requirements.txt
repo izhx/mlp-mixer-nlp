@@ -1,0 +1,2 @@
+allennlp-models>=2.0,<3.0
+allennlp>=2.0,<3.0
